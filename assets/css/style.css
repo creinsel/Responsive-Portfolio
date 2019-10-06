@@ -218,7 +218,14 @@ body {
 
   @media only screen and (max-width: 980px){
     /* nav{ } */
-  
+    nav{
+      float:right;
+      text-align:right;
+      margin-right:30px;
+      
+      
+      
+    }
     header{
      position:static;
    }   
