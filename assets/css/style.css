@@ -243,9 +243,24 @@ body {
     }
   }
   @media only screen and (max-width: 640px){
+    
     .main-section{
-      
-      width:80%;
+      width:400px;
+      margin-left:100px;
+      margin-top: 20px;
+    }
+    #logo{
+      width:100%;
       
     }
+    nav{
+      float:none;
+      text-align:center; 
+      margin-top:0px;
+    
+    }
+    #masthead{
+      margin:0px;
+    }
+
   }
